@@ -38,9 +38,6 @@
 
 ![Stars](https://img.shields.io/badge/stars-20k+-blue) 
 
-- **[koa](https://github.com/koajs/koa)**
-  Expressive middleware for node.js using ES2017 async functions.
-
 - **[dayjs](https://github.com/iamkun/dayjs)**
   ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
 
