@@ -24,8 +24,6 @@
 
 ![Stars](https://img.shields.io/badge/stars-30k+-blue) 
 
-- **[awesome-mac](https://github.com/jaywcjlove/awesome-mac)**
-   Now we have become very big, Different from the original idea. Collect premium software in various categories.
 
 - **[nw.js](https://github.com/nwjs/nw.js)**
   Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
