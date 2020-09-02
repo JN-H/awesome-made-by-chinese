@@ -193,6 +193,9 @@
 
 - **[seajs](https://github.com/seajs/seajs)**
   A Module Loader for the Web.
+  
+- **[openresty](https://github.com/openresty/openresty)**
+  Turning Nginx into a Full-Fledged Scriptable Web Platform.
 
 ![Stars](https://img.shields.io/badge/stars-7k+-blue) 
 
