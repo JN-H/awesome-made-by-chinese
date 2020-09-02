@@ -2,19 +2,19 @@
 
 > A collection of amazing open source projects that were made and mainly contributed by Chinese developers.I call it the high-star club.
 
-### Projects List
+## Projects List
 
-![Stars](https://img.shields.io/badge/stars-100k+-blue) :star:
+![Stars](https://img.shields.io/badge/stars-100k+-blue) 
 
 - **[vue](https://github.com/vuejs/vue)**
   Vue is a progressive framework for building user interfaces.
 
-![Stars](https://img.shields.io/badge/stars-60k+-blue) :star:
+![Stars](https://img.shields.io/badge/stars-60k+-blue) 
 
 - **[ant-design](https://github.com/ant-design/ant-design)**
   An enterprise-class UI design language and React UI library.
 
-![Stars](https://img.shields.io/badge/stars-40k+-blue) :star:
+![Stars](https://img.shields.io/badge/stars-40k+-blue) 
 
 - **[element](https://github.com/ElemeFE/element)**
   A Vue.js 2.0 UI Toolkit for Web.
@@ -22,7 +22,7 @@
 - **[incubator-echarts](https://github.com/apache/incubator-echarts)**
   A powerful, interactive charting and visualization library for browser.
 
-![Stars](https://img.shields.io/badge/stars-30k+-blue) :star:
+![Stars](https://img.shields.io/badge/stars-30k+-blue) 
 
 - **[awesome-mac](https://github.com/jaywcjlove/awesome-mac)**
    Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -36,7 +36,7 @@
 - **[android-open-project](https://github.com/Trinea/android-open-project)**
   A categorized collection of Android Open Source Projects, More powerful web version:
 
-![Stars](https://img.shields.io/badge/stars-20k+-blue) :star:
+![Stars](https://img.shields.io/badge/stars-20k+-blue) 
 
 - **[koa](https://github.com/koajs/koa)**
   Expressive middleware for node.js using ES2017 async functions.
@@ -74,7 +74,7 @@
 - **[awesome-javascript](https://github.com/sorrycc/awesome-javascript)**
   🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 
-![Stars](https://img.shields.io/badge/stars-10k+-blue) :star:
+![Stars](https://img.shields.io/badge/stars-10k+-blue) 
 
 - **[mpvue](https://github.com/Meituan-Dianping/mpvue)**
   基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
@@ -169,7 +169,7 @@
 - **[vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)**
   🏆 Swiper component for @vuejs
 
-![Stars](https://img.shields.io/badge/stars-9k+-blue) :star:
+![Stars](https://img.shields.io/badge/stars-9k+-blue) 
 
 - **[ncnn](https://github.com/Tencent/ncnn)**
   ncnn is a high-performance neural network inference framework optimized for the mobile platform.
@@ -183,7 +183,7 @@
 - **[webpack-demos](https://github.com/ruanyf/webpack-demos)**
   a collection of simple demos of Webpack.
 
-![Stars](https://img.shields.io/badge/stars-8k+-blue) :star:
+![Stars](https://img.shields.io/badge/stars-8k+-blue) 
 
 - **[cube-ui](https://github.com/didi/cube-ui)**
   🔶 A fantastic mobile ui lib implement by Vue.
@@ -197,7 +197,7 @@
 - **[seajs](https://github.com/seajs/seajs)**
   A Module Loader for the Web.
 
-![Stars](https://img.shields.io/badge/stars-7k+-blue) :star:
+![Stars](https://img.shields.io/badge/stars-7k+-blue) 
 
 - **[matrix](https://github.com/Tencent/matrix)**
   Matrix is a plugin style, non-invasive APM system developed by WeChat.
@@ -214,7 +214,7 @@
 - **[cropperjs](https://github.com/fengyuanchen/cropperjs)**
   JavaScript image cropper.
 
-![Stars](https://img.shields.io/badge/stars-6k+-blue) :star:
+![Stars](https://img.shields.io/badge/stars-6k+-blue) 
 
 - **[qiankun](https://github.com/umijs/qiankun)**
   📦 🚀 Blazing fast, simple and completed solution for micro frontends.
@@ -234,7 +234,7 @@
 - **[fish-redux](https://github.com/alibaba/fish-redux)**
   An assembled flutter application framework.
 
-![Stars](https://img.shields.io/badge/stars-5k+-blue) :star:
+![Stars](https://img.shields.io/badge/stars-5k+-blue) 
 
 - **[QMUI_iOS](https://github.com/Tencent/QMUI_iOS)**
   QMUI iOS——致力于提高项目 UI 开发效率的解决方案
@@ -266,7 +266,7 @@
 - **[vue-echarts](https://github.com/ecomfe/vue-echarts)**
   Apache ECharts (incubating) component for Vue.js.
 
-![Stars](https://img.shields.io/badge/stars-4k+-blue) :star:
+![Stars](https://img.shields.io/badge/stars-4k+-blue) 
 
 - **[Hippy](https://github.com/Tencent/Hippy)**
   A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html
@@ -295,7 +295,7 @@
 - **[echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin)**
   Apache ECharts (incubating) 的微信小程序版本
 
-![Stars](https://img.shields.io/badge/stars-3k+-blue) :star:
+![Stars](https://img.shields.io/badge/stars-3k+-blue) 
 
 - **[kbone](https://github.com/Tencent/kbone)**
   一个致力于微信小程序和 Web 端同构的解决方案
@@ -318,7 +318,7 @@
 - **[frozenui](https://github.com/frozenui/frozenui)**
   FrozenUI 的 CSS 组件库，基于腾讯手 Q 样式规范，腾讯 QXD 出品
 
-![Stars](https://img.shields.io/badge/stars-2k+-blue) :star:
+![Stars](https://img.shields.io/badge/stars-2k+-blue) 
 
 - **[TubeMQ](https://github.com/Tencent/TubeMQ)**
   TubeMQ focuses on high-performance storage and transmission of massive data in big data scenarios
@@ -365,7 +365,7 @@
 - **[vue-amap](https://github.com/ElemeFE/vue-amap)**
   🌍 基于 Vue 2.x 和高德地图的地图组件
 
-![Stars](https://img.shields.io/badge/stars-1k+-blue) :star:
+![Stars](https://img.shields.io/badge/stars-1k+-blue) 
 
 - **[Hardcoder](https://github.com/Tencent/Hardcoder)**
   Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the hardware resource of system.
@@ -418,7 +418,7 @@
 - **[awesome-uikit](https://github.com/jaywcjlove/awesome-uikit)**
   Collect JS Frameworks, Web components library and Admin Template.
 
-* ## Contributing
+## Contributing
 
   (the same measurement rule as [awesome-made-by-russians ](https://github.com/gaearon/awesome-made-by-russians))
 
