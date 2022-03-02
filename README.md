@@ -318,6 +318,9 @@
 
 ![Stars](https://img.shields.io/badge/stars-2k+-blue) 
 
+- **[Proton](https://github.com/drawcall/Proton)**
+  Proton is a lightweight and powerful Javascript particle animation library. Use it to easily create a variety of cool particle effects.
+
 - **[TubeMQ](https://github.com/Tencent/TubeMQ)**
   TubeMQ focuses on high-performance storage and transmission of massive data in big data scenarios
 
@@ -364,9 +367,6 @@
   🌍 基于 Vue 2.x 和高德地图的地图组件
 
 ![Stars](https://img.shields.io/badge/stars-1k+-blue) 
-
-- **[Proton](https://github.com/drawcall/Proton)**
-  Proton is a lightweight and powerful Javascript particle animation library. Use it to easily create a variety of cool particle effects.
 
 - **[Hardcoder](https://github.com/Tencent/Hardcoder)**
   Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the hardware resource of system.
